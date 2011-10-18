@@ -23,6 +23,7 @@ min_word_length=03:string::3:Minimum word length for it to be indexed
 extract_count=04:string::3:Maximum number of pieces in extract
 extract_length=05:string::120:Maximum length of each piece of extract
 cache_ttl=06:string::600:Keep results in cache for * seconds
+blacklist=07:radio:Yes,No:No:Enable common word blacklist to reduce DB size
 [END_COT_EXT_CONFIG]
 ==================== */
 
