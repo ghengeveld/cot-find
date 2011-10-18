@@ -3,7 +3,7 @@ Find: Index-based search for Cotonti
 
 Find is a module for Cotonti that provides a platform for index-based search.
 The system will index words within nodes in the database, meaning it will 
-create a database table of words out of content spread accross the database, 
+create a database table of words out of content spread across the database, 
 allowing for fast site-wide search, even on websites with thousands of nodes.
 
 A node can effectively be anything, as long as they have a unique identifier 
